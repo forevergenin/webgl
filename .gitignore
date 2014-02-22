@@ -1,0 +1,4 @@
+#ignore temporary files created by editors / IDE's
+*~
+*.swp
+.idea/
